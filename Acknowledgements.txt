@@ -1,0 +1,10 @@
+This program would not have been possible without the excellent open 
+source FT4/8 decoder ft8ts available under GPL v3 that is available @
+https://github.com/e04/ft8ts  The author is only known as e04.
+
+FT8/FT4 decoder is written in pure TypeScript and is a port of the 
+Fortran implementation from WSJT-X v2.7.0 
+
+WSJT-X was originally created by Dr. Joe Taylor, K1JT. Today, it is 
+maintained and expanded by the WSJT Development Team, featuring 
+core contributors like Steve Franke (K9AN) and Nico Palermo (IV3NWV)
